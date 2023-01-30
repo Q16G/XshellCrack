@@ -1,5 +1,7 @@
 # XshellCrack
 XshellCrack is a secondary development based on SharpXDecrypt, rewritten with go language, increased the registry query Settings, more convenient for xshell local password cracking
+# declaration
+This tool is only for password search. Any other behavior is at your own risk
 # introduce
 
 ### Use
